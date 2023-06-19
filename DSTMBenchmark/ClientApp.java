@@ -1,5 +1,5 @@
-// Universidade Federal de Pelotas 2022
-// This work is licensed under a Creative Commons
+// Universidade Federal de Pelotas 2023
+// This work is licensed under a Creative Commons//
 package DSTMBenchmark;
 
 import java.rmi.*;
