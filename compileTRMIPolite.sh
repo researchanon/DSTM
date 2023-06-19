@@ -1,3 +1,4 @@
+#scripts for experiments
 rm TRMIPolite/TinyTM/*.class
 rm TRMIPolite/TinyTM/contention/*.class
 rm TRMIPolite/TinyTM/DBank/*.class

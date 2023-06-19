@@ -1,3 +1,4 @@
+#scripts for experiments
 rm TRMIPassive/TinyTM/*.class
 rm TRMIPassive/TinyTM/contention/*.class
 rm TRMIPassive/TinyTM/DBank/*.class
