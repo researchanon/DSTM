@@ -9,7 +9,7 @@
  * + Added validation through a read set
  * + Added Distributed STM
  *
- * Universidade Federal de Pelotas 2022
+ * Universidade Federal de Pelotas 2023
  * 
  * This work is licensed under a Creative Commons Attribution-Share Alike 3.0 United States License.
  * http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png
